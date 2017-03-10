@@ -40,6 +40,14 @@
 
     <string name="example_fragment_button">Show toast</string>
 
+    <!-- Strings for BackExitWelcomeActivity -->
+
+    <string name="example_backexit_title">No back navigation</string>
+    <string name="example_backexit_description">By default, the back button can be used to go back a page</string>
+
+    <string name="example_back_exit_title">Back will exit</string>
+    <string name="example_back_exit_description">Pressing back on this page will close the activity, rather than going to the previous page</string>
+
     <!-- Strings for list of welcome screens -->
     <string name="title_sample">Sample</string>
     <string name="description_sample">The welcome screen for this sample app</string>
