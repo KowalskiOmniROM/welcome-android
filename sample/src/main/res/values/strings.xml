@@ -34,6 +34,12 @@
     <string name="basicpage_title_customizable">Customizable</string>
     <string name="basicpage_description_customizable">All elements of the welcome screen can be customized easily.</string>
 
+    <!-- Strings for ExampleFragment -->
+
+    <string name="example_fragment_title">This is a custom fragment</string>
+
+    <string name="example_fragment_button">Show toast</string>
+
     <!-- Strings for list of welcome screens -->
     <string name="title_sample">Sample</string>
     <string name="description_sample">The welcome screen for this sample app</string>
