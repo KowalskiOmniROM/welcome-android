@@ -48,6 +48,12 @@
     <string name="example_back_exit_title">Back will exit</string>
     <string name="example_back_exit_description">Pressing back on this page will close the activity, rather than going to the previous page</string>
 
+    <!-- Strings for ButtonBarSingleWelcomeActivity -->
+
+    <string name="example_buttonbarsingle_title">Title Page</string>
+    <string name="example_buttonbarsingle_description">Basic Page</string>
+    <string name="example_buttonbarsingle_summary">A page with a title and description</string>
+
     <!-- Strings for list of welcome screens -->
     <string name="title_sample">Sample</string>
     <string name="description_sample">The welcome screen for this sample app</string>
