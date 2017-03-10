@@ -17,12 +17,12 @@ public class BackExitWelcomeActivity extends WelcomeActivity {
                 .defaultTitleTypefacePath("Roboto-Bold.ttf")
                 .defaultHeaderTypefacePath("Roboto-Bold.ttf")
                 .page(new BasicPage(R.drawable.ic_image_white,
-                        "No back navigation",
-                        "By default, the back button can be used to go back a page")
+                        (getString(R.string.example_backexit_title)),
+                        (getString(R.string.example_backexit_description)))
                 )
                 .page(new BasicPage(R.drawable.ic_back_white,
-                        "Back will exit",
-                        "Pressing back on this page will close the activity, rather than going to the previous page")
+                        (getString(R.string.example_back_exit_title)),
+                        (getString(R.string.example_back_exit_description)))
                 )
                 .backButtonNavigatesPages(false)
                 .swipeToDismiss(true)
