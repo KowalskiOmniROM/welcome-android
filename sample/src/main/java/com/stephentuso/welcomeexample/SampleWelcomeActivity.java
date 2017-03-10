@@ -17,27 +17,27 @@ public class SampleWelcomeActivity extends WelcomeActivity {
                 .defaultHeaderTypefacePath("Montserrat-Bold.ttf")
 
                 .page(new BasicPage(R.drawable.ic_front_desk_white,
-                        "Welcome",
-                        "An Android library for onboarding, instructional screens, and more")
+                        (getString(R.string.basicpage_title_welcome)),
+                        (getString(R.string.basicpage_description_welcome)))
                         .background(R.color.orange_background)
                 )
 
                 .page(new BasicPage(R.drawable.ic_thumb_up_white,
-                        "Simple to use",
-                        "Add a welcome screen to your app with only a few lines of code.")
+                        (getString(R.string.basicpage_title_simple_to_use)),
+                        (getString(R.string.basicpage_description_simple_to_use)))
                         .background(R.color.red_background)
                 )
 
                 .page(new ParallaxPage(R.layout.parallax_example,
-                        "Easy parallax",
-                        "Supply a layout and parallax effects will automatically be applied")
+                        (getString(R.string.parallaxpage_title_easy_parallax)),
+                        (getString(R.string.parallaxpage_description_easy_parallax)))
                         .lastParallaxFactor(2f)
                         .background(R.color.purple_background)
                 )
 
                 .page(new BasicPage(R.drawable.ic_edit_white,
-                        "Customizable",
-                        "All elements of the welcome screen can be customized easily.")
+                        (getString(R.string.basicpage_title_customizable)),
+                        (getString(R.string.basicpage_description_customizable)))
                         .background(R.color.blue_background)
                 )
 
