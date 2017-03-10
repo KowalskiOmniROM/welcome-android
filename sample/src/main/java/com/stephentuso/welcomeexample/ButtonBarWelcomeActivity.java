@@ -30,12 +30,12 @@ public class ButtonBarWelcomeActivity extends WelcomeActivity {
 
     @Override
     protected void onButtonBarFirstPressed() {
-        showExampleActionActivity("Log In");
+        showExampleActionActivity((getString(R.string.example_buttonbarwelcomeactivity_login)));
     }
 
     @Override
     protected void onButtonBarSecondPressed() {
-        showExampleActionActivity("Sign Up");
+        showExampleActionActivity((getString(R.string.example_buttonbarwelcomeactivity_signup)));
     }
 
     private void showExampleActionActivity(String action) {
