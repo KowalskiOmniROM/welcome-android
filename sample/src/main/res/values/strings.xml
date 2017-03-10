@@ -59,6 +59,14 @@
     <string name="example_buttonbarwelcomeactivity_login">Log In</string>
     <string name="example_buttonbarwelcomeactivity_signup">Sign Up</string>
 
+    <!-- Strings for DefaultWelcomeActivity -->
+
+    <string name="example_defaultwelcomeactivity_default_welcome_screen">Default Welcome Screen</string>
+    <string name="example_defaultwelcomeactivity_default_style">Default style</string>
+    <string name="example_defaultwelcomeactivity_no_custom_styles">No custom styles are applied to this welcome screen</string>
+    <string name="example_defaultwelcomeactivity_default_properties">Default properties</string>
+    <string name="example_defaultwelcomeactivity_no_properties">No properties were set on the WelcomeScreenBuilder</string>
+
     <!-- Strings for list of welcome screens -->
     <string name="title_sample">Sample</string>
     <string name="description_sample">The welcome screen for this sample app</string>
