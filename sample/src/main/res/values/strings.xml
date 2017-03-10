@@ -7,6 +7,33 @@
     <string name="example_action_button">Done</string>
     <string name="example_action_description">%1$s content would go here. Press the button below to simulate completion.</string>
 
+    <!-- Strings for individual pages -->
+
+    <!-- Strings for BasicPage -->
+
+    <string name="basicpage_title_welcome">Welcome</string>
+    <string name="basicpage_description_welcome">An Android library for onboarding, instructional screens, and more</string>
+
+    <!-- Strings for BasicPage -->
+
+    <string name="basicpage_title_simple_to_use">Simple to use</string>
+    <string name="basicpage_description_simple_to_use">Add a welcome screen to your app with only a few lines of code.</string>
+
+    <!-- Strings for ParallaxPage -->
+
+    <string name="parallaxpage_title_easy_parallax">Easy parallax</string>
+    <string name="parallaxpage_description_easy_parallax">Supply a layout and parallax effects will automatically be applied</string>
+
+    <!-- Strings for ParallaxPage -->
+
+    <string name="parallaxpage_title_parallax_page">Parallax page</string>
+    <string name="parallaxpage_description_parallax_page">Applies a parallax effect and has a title and description</string>
+
+    <!-- Strings for BasicPage -->
+
+    <string name="basicpage_title_customizable">Customizable</string>
+    <string name="basicpage_description_customizable">All elements of the welcome screen can be customized easily.</string>
+
     <!-- Strings for list of welcome screens -->
     <string name="title_sample">Sample</string>
     <string name="description_sample">The welcome screen for this sample app</string>
