@@ -20,7 +20,7 @@
         android:id="@+id/text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="This is a custom fragment"
+        android:text="@string/example_fragment_title"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:layout_marginBottom="15dp"/>
@@ -30,7 +30,7 @@
         android:id="@+id/button"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
-        android:text="Show toast"
+        android:text="@string/example_fragment_button"
         android:layout_marginTop="20dp"
         android:layout_below="@id/text"
         android:layout_centerHorizontal="true"/>
