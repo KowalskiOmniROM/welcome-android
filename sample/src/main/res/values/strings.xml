@@ -54,6 +54,11 @@
     <string name="example_buttonbarsingle_description">Basic Page</string>
     <string name="example_buttonbarsingle_summary">A page with a title and description</string>
 
+    <!-- Strings for ButtonBarWelcomeActivity -->
+
+    <string name="example_buttonbarwelcomeactivity_login">Log In</string>
+    <string name="example_buttonbarwelcomeactivity_signup">Sign Up</string>
+
     <!-- Strings for list of welcome screens -->
     <string name="title_sample">Sample</string>
     <string name="description_sample">The welcome screen for this sample app</string>
